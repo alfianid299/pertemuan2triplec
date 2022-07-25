@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+<center><h1>Selamat Datang</h1></center>
+<button>Function</button>
+<button>Variable Superglobal</button>
+<button>Session</button>
+<button>Validasi Form</button>
+<button>Validasi Email</button>
 </body>
 </html>
